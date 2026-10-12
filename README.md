@@ -28,3 +28,6 @@ This repository contains a terminal-based simulation of the Entropic Framework P
 
 Enjoy exploring the frontiers of entropic physics!
 
+## Protection
+
+<a href="https://www.dmca.com/Protection/Status.aspx?ID=6caa65d6-df34-4e98-b630-8f11b408699d" title="DMCA.com Protection Status" class="dmca-badge"><img src="https://images.dmca.com/Badges/dmca_protected_sml_120m.png?ID=6caa65d6-df34-4e98-b630-8f11b408699d" alt="DMCA.com Protection Status" /></a>
